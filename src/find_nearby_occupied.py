@@ -1,7 +1,6 @@
 import pandas as pd
 import argparse
 from scipy.spatial import KDTree
-import numpy as np
 
 
 def build_kdtree(df):
