@@ -1,6 +1,7 @@
 
+# Ignore Data files
+data/
+backups/
 
 # Ignore virtual environment
 venv/
-
-
